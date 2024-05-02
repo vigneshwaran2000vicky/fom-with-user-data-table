@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.form {
+    text-align: center;
+    padding-top: 5%;
+    line-height: 40px;
+}
+.form h1{
+    padding-bottom: 2%;
+}
+.btn{
+    width: 13%;
+    height: 25px;
+    border-radius: 40px;
+    border: 0;
+    color: white;
+    background-color: blueviolet;
+}
+table {
+    margin-left: 38%; margin-bottom: 2%;align-items: center;
+    
+}
+table tr td{
+    border: 1px solid white;border-collapse: collapse;
+}
+body{
+    background: linear-gradient(1900deg,red,blueviolet);
+}
